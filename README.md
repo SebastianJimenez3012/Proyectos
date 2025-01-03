@@ -1,8 +1,7 @@
 # hello-world
- mi nombre es sebastian y es mi primer repositorio
+ este es mi primer intento actualizando repos
 
- Jimenez Rosario, jimenez.sa
-## subtitulo
+ Jimenez Rosario, Sebastian
 
  - Este es mi primer cambio a mi repo 'hello-world'
  - Este es el segundo bullet
